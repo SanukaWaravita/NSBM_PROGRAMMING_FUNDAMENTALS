@@ -1,1 +1,10 @@
+# Ignore IDE and editor folders
+.idea/
+.vscode/
+
+# Ignore the DOCUMENTS folder inside PYTHON
 PYTHON/DOCUMENTS/
+
+# Ignore other common system files
+*.DS_Store
+Thumbs.db
