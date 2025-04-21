@@ -1,4 +1,4 @@
-# Decalre the integer list and asign five numbers access the elements of the array and display the following. 
+# Declare the integer list and asign five numbers access the elements of the array and display the following. 
 #   1. reverse order
 #   2. The maximum value
 
