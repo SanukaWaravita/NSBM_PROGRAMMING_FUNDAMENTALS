@@ -1,6 +1,5 @@
-otal = 0
+list1 = [1,2,3,4,5]
+list2 = [6,7,8,9,10]
 
-for x in range (1, 15):
-    total = total + x
-
-print(total)
+list3 = list1.extend(list2)
+print(list3)

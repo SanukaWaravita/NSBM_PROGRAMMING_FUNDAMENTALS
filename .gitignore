@@ -5,6 +5,12 @@
 # Ignore the DOCUMENTS folder inside PYTHON
 PYTHON/DOCUMENTS/
 
+# Ignore the SUBMISSIONS folder inside PYTHON
+PYTHON/SUBMISSIONS
+
 # Ignore other common system files
 *.DS_Store
 Thumbs.db
+
+# Ignore code testing environment files
+PYTHON/CTE.py
