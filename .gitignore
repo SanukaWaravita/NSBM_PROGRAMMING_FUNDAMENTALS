@@ -13,4 +13,5 @@ PYTHON/SUBMISSIONS
 Thumbs.db
 
 # Ignore code testing environment files
+
 PYTHON/CTE.py
