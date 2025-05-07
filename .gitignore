@@ -15,3 +15,6 @@ Thumbs.db
 # Ignore code testing environment files
 
 PYTHON/CTE.py
+
+# Ingore CSV files
+PYTHON/IN-CLASS/7-MAY-2025/industry.csv
